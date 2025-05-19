@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16022017-069000";"";
+"REFERENCE";"HK 1812";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TraceParts.InstanceId";"10-16022017-069000CSV597NP4MZS0585XSKH6D0M3";"";
+"TraceParts.PartTitle";"Drawn cup needle roller bearings, single row, open ends";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Drawn cup needle roller bearings, single row, open ends, Inside Ø 18 mm, Outside Ø 24 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.013";"";

@@ -1,0 +1,25 @@
+==========================    PARTES   ==========================================
+
+XXX-XXX-XXX-XXX
+Proyecto - Parte del equipo - Grupo - Parte
+
+Proyecto: siempre 001
+Parte del equipo: 001 dobladora / 002 prensado / 003 carrete
+Parte del grupo de cada equipo lo define cada uno.
+Parte (000) para el ensamble!
+
+Ejemplo: 
+
+001 - xxx - xxx : proyecto dobladora
+001 - 001 - xxx - xxx : proyecto dobladora, dobladora 
+001 - 001 - 001 - xxx : proyecto dobladora, dobladora, mecanismo de doblado
+001 - 001 - 001 - 000 : proyecto dobladora, dobladora, mecanismo de doblado, conjunto.
+001 - 001 - 001 - 001 : proyecto dobladora, dobladora, mecanismo de doblado, barra doblado.
+
+==================================================================================
+
+001-001-001-000: Soportes para desplazamiento vertical
+001-001-002-000: Estructura
+001-001-003-000: Tirador (SC)
+001-001-004-000: Guillotina
+
