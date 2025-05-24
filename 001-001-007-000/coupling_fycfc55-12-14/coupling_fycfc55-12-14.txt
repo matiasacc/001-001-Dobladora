@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"50-13112018-077327";"";
+"REFERENCE";"FYCFC55-12-14";"";
+"TraceParts.PartTitle";"Jaw Coupling-Clamping Type FYCFC";"";
+"TraceParts.InstanceId";"50-13112018-0773273BKM3MT0K0G60W5KS19XBNIOB";"";
+"SUPPLIER";"Dongguan Forrun Hardware Co., Ltd.";"";
+"DESIGN";"Jaw Coupling-Clamping Type FYCFC55-12-14";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.1.9";"";

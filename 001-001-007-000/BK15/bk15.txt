@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-04072023-028909";"";
+"REFERENCE";"BK15";"";
+"TraceParts.PartTitle";"Ball screw support seat BK15";"";
+"TraceParts.InstanceId";"90-04072023-0289092N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Heda Technology";"";
+"DESIGN";"Ball screw support seat BK15";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";
