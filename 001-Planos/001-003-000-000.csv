@@ -1,6 +1,7 @@
-
-3;1;001-002-003-000;Estructura metálica
-2;4;001-002-002-000;Conjunto apriete
-1;1;001-002-001-000;Soporte principal
-Item;Cantidad;Modelo;Descripción
-Item;Cantidad;Modelo;Descripción
+1;1;001-003-005-000;Estructura metalica
+1;1;001-003-004-000;Unidad hidrauilica
+1;1;001-003-003-000;Conjunto prensa
+1;4;001-003-002-000;Conjunto actuador
+1;1;001-003-001-000;Conjunto bandeja
+Item;Cantidad;Modelo;Descripcion
+Item;Cantidad;Modelo;Descripcion
